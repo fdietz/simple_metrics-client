@@ -1,3 +1,5 @@
+WARNING: Project is DISCONTINUED. As is simple_metrics server. There are other which serve a similar purpose as for example graphite, statsd, batsd, etc.
+
 SimpleMetrics Ruby Client
 =========================
 
